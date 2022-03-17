@@ -8,7 +8,7 @@ I utilized html, css, javascript and git to complete this homework assignment.
 
 You can view my GitHub and Live URL below:
 ### [GitHub Link](https://github.com/mduhart82/p-word-gen) 
-### [Live URL]()
+### [Live URL](https://mduhart82.github.io/p-word-gen/)
 
 
 
