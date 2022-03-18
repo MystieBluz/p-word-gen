@@ -2,7 +2,9 @@
 
 ## Password Generator Assignment
 
-My task for this assignment was to create a password generator.
+My task for this assignment was to create a password generator. I was required to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. 
+
+This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
 I utilized html, css, javascript and git to complete this homework assignment. 
 
