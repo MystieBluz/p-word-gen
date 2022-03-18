@@ -15,4 +15,5 @@ You can view my GitHub and Live URL below:
 
 
 ##### Screenshot of password generator:
-![](./Pw%20Gen%20SrnShot.png
+![](./Pw%20Gen%20SrnShot.png)
+
