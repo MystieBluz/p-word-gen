@@ -9,8 +9,8 @@ This app runs in the browser and features dynamically updated HTML and CSS power
 I utilized html, css, javascript and git to complete this homework assignment. 
 
 You can view my GitHub and Live URL below:
-### [GitHub Link](https://github.com/mduhart82/p-word-gen) 
-### [Live URL](https://mduhart82.github.io/p-word-gen/)
+### [GitHub Link](https://github.com/MystieBluz/p-word-gen) 
+### [Live URL](https://mystiebluz.github.io/p-word-gen/)
 
 
 
